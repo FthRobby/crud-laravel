@@ -7,7 +7,7 @@
     <title>Tambah Data</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body style="background: lightgray">
+<body class="bg-dark">
 
     <div class="container mt-5 mb-5">
         <div class="row">
